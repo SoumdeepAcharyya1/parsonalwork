@@ -1,0 +1,109 @@
+body{
+  background-color: #CBF1F5;
+
+}
+h2{
+  font-family: Dancing Script;
+  font-size:50px;
+}
+h1{
+  padding-top: 30%;
+  text-align: center;
+  font-family: Dancing Script;
+  font-size:80px;
+  animation: blink-animation 1s  infinite;
+}
+@keyframes blink-animation{
+0%{opacity: 0;}
+50%{opacity: .5;}
+100%{opacity: 1;}
+15%{color: #08D9D6;}
+25%{color: inherit;}
+}
+.marq{
+  font-size: 30px;
+}
+.marq0{
+  color: #293462;
+}
+.marq1{
+  color: #F24C4C;
+}
+.marq2{
+  color: #EC9B3B;
+}
+.marq3{
+  color: #890596;
+}
+.marq4{
+  color: #C0E218;
+}
+.marq5{
+  color: #49BEB7;
+}
+.marq6{
+  color: "red";
+}
+.marq7{
+  color: #3C415C;
+}
+.marq8{
+  color: #FF4301;
+}
+.marq9{
+  color: #FF1E56;
+}
+.marq10{
+  color: #FFD700;
+}
+.balloon-left{
+  height: 500px;
+  width: 400px;
+  top:100px;
+  float:left;
+}
+.balloon-right{
+  height: 500px;
+  width: 400px;
+  float: right;
+  margin-right: 0px;
+  padding-right: 0px;
+
+}
+
+
+.hbt{
+  padding: 7% 15%;
+  text-align: center;
+
+}
+.image1{
+  height: 600px;
+  width: 500px;
+  border-radius: 50%;
+
+}
+.image2{
+  height: 500px;
+  width: 400px;
+
+}
+.image3{
+  height: 800px;
+  width: 500px;
+}
+.image4{
+  height: 600px;
+  width: 500px;
+  border-radius: 50%;
+}
+.image5{
+  height: 600px;
+  width: 500px;
+  border-radius: 50%;
+}
+.image6{
+  height: 600px;
+  width: 500px;
+  border-radius: 50%;
+}
